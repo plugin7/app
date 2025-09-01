@@ -1,0 +1,3 @@
+[
+      {"name":"Infinity Ou","desc":"Play Eggs Win Cars!","img":"https://s3.mytel.com.mm/myid-ui/70e24c8e-58c3-4d06-a0d3-1aed21b3e17d-900x600-pixel-min.png","link":"https://www.example.com/infinity","featured":"true"},{"name":"Infinity Ou","desc":"Play Eggs Win Cars!","img":"https://s3.mytel.com.mm/myid-ui/70e24c8e-58c3-4d06-a0d3-1aed21b3e17d-900x600-pixel-min.png","link":"https://www.example.com/infinity","featured":"true"}
+    ]
